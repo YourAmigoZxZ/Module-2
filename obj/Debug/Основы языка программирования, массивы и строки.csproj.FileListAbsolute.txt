@@ -1,0 +1,7 @@
+C:\Users\Maksim\source\repos\Основы языка программирования, массивы и строки\obj\Debug\Основы языка программирования, массивы и строки.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Основы языка программирования, массивы и строки\bin\Debug\Основы языка программирования, массивы и строки.exe.config
+C:\Users\Maksim\source\repos\Основы языка программирования, массивы и строки\bin\Debug\Основы языка программирования, массивы и строки.exe
+C:\Users\Maksim\source\repos\Основы языка программирования, массивы и строки\bin\Debug\Основы языка программирования, массивы и строки.pdb
+C:\Users\Maksim\source\repos\Основы языка программирования, массивы и строки\obj\Debug\Основы языка программирования, массивы и строки.exe
+C:\Users\Maksim\source\repos\Основы языка программирования, массивы и строки\obj\Debug\Основы языка программирования, массивы и строки.pdb
+C:\Users\Maksim\source\repos\Основы языка программирования, массивы и строки\obj\Debug\Основы языка программирования, массивы и строки.csproj.AssemblyReference.cache
